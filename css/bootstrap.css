@@ -3437,6 +3437,10 @@ input[type="button"].btn-block {
   white-space: nowrap;
 }
 
+body {
+  position: relative;
+}
+
 .dropdown-item-text {
   display: block;
   padding: 0.25rem 1.5rem;
@@ -6696,6 +6700,10 @@ a.close.disabled {
 
 .align-text-top {
   vertical-align: text-top !important;
+}
+
+.cl-light {
+  color: #f7f7f7;
 }
 
 .bg-muted {

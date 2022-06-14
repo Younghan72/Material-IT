@@ -4518,4 +4518,8 @@
   Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
+
+var scrollSpy = new bootstrap.ScrollSpy(document.body, {
+  target: '#navbar-example'
+})
 //# sourceMappingURL=bootstrap.js.map
